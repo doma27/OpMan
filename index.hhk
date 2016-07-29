@@ -1,0 +1,727 @@
+﻿<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="FrameName" value="bsscright">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Acceleration">
+    <param name="Name" value="Indicators.htm#IX_Acceleration">
+    <param name="Local" value="OpMan/OpMan/Indicators.htm#IX_Acceleration">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Access ladder">
+    <param name="Name" value="Introduction1.htm#IX_Access_ladder">
+    <param name="Local" value="OpMan/OpMan/Introduction1.htm#IX_Access_ladder">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Alarm">
+    <param name="Name" value="Indicators.htm#IX_Alarm">
+    <param name="Local" value="OpMan/OpMan/Indicators.htm#IX_Alarm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Auto-execute">
+    <param name="Name" value="Menu_Structure.htm#IX_Auto_execute">
+    <param name="Local" value="OpMan/OpMan/Menu_Structure.htm#IX_Auto_execute">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Bath">
+    <param name="Name" value="Iconography2.htm#IX_Bath">
+    <param name="Local" value="OpMan/OpMan/Iconography2.htm#IX_Bath">
+    <param name="Name" value="Iconography2.htm#IX_Bath_1">
+    <param name="Local" value="OpMan/OpMan/Iconography2.htm#IX_Bath_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Calibration">
+    <param name="Name" value="Menu_Structure.htm#IX_Calibration">
+    <param name="Local" value="OpMan/OpMan/Menu_Structure.htm#IX_Calibration">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Condition">
+    <param name="Name" value="Dielectric_Fluid_Plant.htm#IX_Condition">
+    <param name="Local" value="OpMan/OpMan/Dielectric_Fluid_Plant.htm#IX_Condition">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Console mode">
+    <param name="Name" value="Operator_Console1.htm#IX_Console_mode">
+    <param name="Local" value="OpMan/OpMan/Operator_Console1.htm#IX_Console_mode">
+    <param name="Name" value="Operating_the_machine_in_Console_Mode.htm#IX_Console_mode_1">
+    <param name="Local" value="OpMan/OpMan/Operating_the_machine_in_Console_Mode.htm#IX_Console_mode_1">
+    <param name="Name" value="Operating_the_machine_in_Console_Mode.htm#IX_Console_mode_2">
+    <param name="Local" value="OpMan/OpMan/Operating_the_machine_in_Console_Mode.htm#IX_Console_mode_2">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Control panel">
+    <param name="Name" value="Dielectric_Plant_Control_Panel_and_Mimic_Panel.htm#IX_Control_panel">
+    <param name="Local" value="OpMan/OpMan/Dielectric_Plant_Control_Panel_and_Mimic_Panel.htm#IX_Control_panel">
+    <param name="Name" value="Backflush.htm#IX_Control_panel_1">
+    <param name="Local" value="OpMan/OpMan/Backflush.htm#IX_Control_panel_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Control room">
+    <param name="Name" value="Installation_Overview.htm#IX_Control_room">
+    <param name="Local" value="OpMan/OpMan/Installation_Overview.htm#IX_Control_room">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Conventions">
+    <param name="Name" value="Conventions_Used_In_the_User_Training1.htm">
+    <param name="Local" value="OpMan/OpMan/Conventions_Used_In_the_User_Training1.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Diameter">
+    <param name="Name" value="Iconography4.htm#IX_Diameter">
+    <param name="Local" value="OpMan/OpMan/Iconography4.htm#IX_Diameter">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Diameter measurement">
+    <param name="Name" value="Iconography4.htm#IX_Diameter_measurement">
+    <param name="Local" value="OpMan/OpMan/Iconography4.htm#IX_Diameter_measurement">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Dielectric oil">
+    <param name="Name" value="Semi-Auto_Prerequisites.htm#IX_Dielectric_oil">
+    <param name="Local" value="OpMan/OpMan/Semi-Auto_Prerequisites.htm#IX_Dielectric_oil">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Dielectric plant">
+    <param name="Name" value="Introduction1.htm#The_picture_above_shows">
+    <param name="Local" value="OpMan/OpMan/Introduction1.htm#The_picture_above_shows">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Discharge">
+    <param name="Name" value="EDT_Machine_General_Description.htm#IX_Discharge">
+    <param name="Local" value="OpMan/OpMan/EDT_Machine_General_Description.htm#IX_Discharge">
+    <param name="Name" value="Dump_Discharge.htm">
+    <param name="Local" value="OpMan/OpMan/Dump_Discharge.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Distribution cabinets">
+    <param name="Name" value="Turning_the_EDT_Machine_On.htm#IX_Distribution_cabinets">
+    <param name="Local" value="OpMan/OpMan/Turning_the_EDT_Machine_On.htm#IX_Distribution_cabinets">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="E-stop">
+    <param name="Name" value="Emergency_Safety_Operations.htm#IX_E_stop">
+    <param name="Local" value="OpMan/OpMan/Emergency_Safety_Operations.htm#IX_E_stop">
+    <param name="Name" value="E_stop.htm#IX_E_stop_1">
+    <param name="Local" value="OpMan/OpMan/E_stop.htm#IX_E_stop_1">
+    <param name="Name" value="E_stop.htm#IX_E_stop_2">
+    <param name="Local" value="OpMan/OpMan/E_stop.htm#IX_E_stop_2">
+    <param name="Name" value="E_stop.htm#IX_E_stop_3">
+    <param name="Local" value="OpMan/OpMan/E_stop.htm#IX_E_stop_3">
+    <param name="Name" value="E_stop.htm#IX_E_stop_4">
+    <param name="Local" value="OpMan/OpMan/E_stop.htm#IX_E_stop_4">
+    <param name="Name" value="E_stop.htm#IX_E_stop_5">
+    <param name="Local" value="OpMan/OpMan/E_stop.htm#IX_E_stop_5">
+    <param name="Name" value="E_stop.htm#IX_E_stop_6">
+    <param name="Local" value="OpMan/OpMan/E_stop.htm#IX_E_stop_6">
+    <param name="Name" value="Using_the_Emergency_Switch.htm#IX_E_stop_7">
+    <param name="Local" value="OpMan/OpMan/Using_the_Emergency_Switch.htm#IX_E_stop_7">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="E-stops with keys">
+    <param name="Name" value="E_stop.htm#IX_E_stops_with_keys">
+    <param name="Local" value="OpMan/OpMan/E_stop.htm#IX_E_stops_with_keys">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Electrodes">
+    <param name="Name" value="Semi-auto_set_points.htm#IX_Electrodes">
+    <param name="Local" value="OpMan/OpMan/Semi-auto_set_points.htm#IX_Electrodes">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Elevation">
+    <param name="Name" value="Table_describing_modal_buttons_on_User_Pendant.htm#IX_Elevation">
+    <param name="Local" value="OpMan/OpMan/Table_describing_modal_buttons_on_User_Pendant.htm#IX_Elevation">
+    <param name="Name" value="Table_describing_modal_buttons_on_User_Pendant.htm#IX_Elevation_1">
+    <param name="Local" value="OpMan/OpMan/Table_describing_modal_buttons_on_User_Pendant.htm#IX_Elevation_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Emergency stop button">
+    <param name="Name" value="Turning_the_EDT_Machine_On.htm#IX_Emergency_stop_button">
+    <param name="Local" value="OpMan/OpMan/Turning_the_EDT_Machine_On.htm#IX_Emergency_stop_button">
+    <param name="Name" value="Emergency_Safety_Operations.htm#IX_Emergency_stop_button_1">
+    <param name="Local" value="OpMan/OpMan/Emergency_Safety_Operations.htm#IX_Emergency_stop_button_1">
+    <param name="Name" value="Using_the_Emergency_Switch.htm#IX_Emergency_stop_button_2">
+    <param name="Local" value="OpMan/OpMan/Using_the_Emergency_Switch.htm#IX_Emergency_stop_button_2">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Enabled">
+    <param name="Name" value="Indicators.htm#IX_Enabled">
+    <param name="Local" value="OpMan/OpMan/Indicators.htm#IX_Enabled">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="End position">
+    <param name="Name" value="Semi-auto_set_points.htm#IX_End_position">
+    <param name="Local" value="OpMan/OpMan/Semi-auto_set_points.htm#IX_End_position">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Error code">
+    <param name="Name" value="Indicators.htm#IX_Error_code">
+    <param name="Local" value="OpMan/OpMan/Indicators.htm#IX_Error_code">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Exclamation mark">
+    <param name="Name" value="Fault_Reporting_and_Help.htm#IX_Exclamation_mark">
+    <param name="Local" value="OpMan/OpMan/Fault_Reporting_and_Help.htm#IX_Exclamation_mark">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Fault">
+    <param name="Name" value="Fault_Reporting_and_Help.htm">
+    <param name="Local" value="OpMan/OpMan/Fault_Reporting_and_Help.htm">
+    <param name="Name" value="Indicators.htm#IX_Fault_1">
+    <param name="Local" value="OpMan/OpMan/Indicators.htm#IX_Fault_1">
+    <param name="Name" value="Manual_and_AUTO_modes.htm#IX_Fault_2">
+    <param name="Local" value="OpMan/OpMan/Manual_and_AUTO_modes.htm#IX_Fault_2">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Fill pump">
+    <param name="Name" value="Introduction1.htm#IX_Fill_pump">
+    <param name="Local" value="OpMan/OpMan/Introduction1.htm#IX_Fill_pump">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Filter column">
+    <param name="Name" value="Introduction1.htm#IX_Filter_column">
+    <param name="Local" value="OpMan/OpMan/Introduction1.htm#IX_Filter_column">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Filtering">
+    <param name="Name" value="Dielectric_Plant_Control_Panel_and_Mimic_Panel.htm#IX_Filtering">
+    <param name="Local" value="OpMan/OpMan/Dielectric_Plant_Control_Panel_and_Mimic_Panel.htm#IX_Filtering">
+    <param name="Name" value="Filtering_Operations.htm">
+    <param name="Local" value="OpMan/OpMan/Filtering_Operations.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Fire system">
+    <param name="Name" value="Fire_system.htm">
+    <param name="Local" value="OpMan/OpMan/Fire_system.htm">
+    <param name="Name" value="Manual_activation.htm#IX_Fire_system_1">
+    <param name="Local" value="OpMan/OpMan/Manual_activation.htm#IX_Fire_system_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Fluid levels">
+    <param name="Name" value="Dielectric_Fluid_Plant.htm#IX_Fluid_levels">
+    <param name="Local" value="OpMan/OpMan/Dielectric_Fluid_Plant.htm#IX_Fluid_levels">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Fume hood">
+    <param name="Name" value="Semi-Auto_Prerequisites.htm#IX_Fume_hood">
+    <param name="Local" value="OpMan/OpMan/Semi-Auto_Prerequisites.htm#IX_Fume_hood">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Gain">
+    <param name="Name" value="Iconography2.htm#IX_Gain">
+    <param name="Local" value="OpMan/OpMan/Iconography2.htm#IX_Gain">
+    <param name="Name" value="Semi-auto_set_points.htm#IX_Gain_1">
+    <param name="Local" value="OpMan/OpMan/Semi-auto_set_points.htm#IX_Gain_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Hardware">
+    <param name="Name" value="EDT_Machine_Hardware_Overview.htm">
+    <param name="Local" value="OpMan/OpMan/EDT_Machine_Hardware_Overview.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Headstock">
+    <param name="Name" value="Installation_Overview.htm#IX_Headstock">
+    <param name="Local" value="OpMan/OpMan/Installation_Overview.htm#IX_Headstock">
+    <param name="Name" value="EDT_Machine_Hardware_Overview.htm#IX_Headstock_1">
+    <param name="Local" value="OpMan/OpMan/EDT_Machine_Hardware_Overview.htm#IX_Headstock_1">
+    <param name="Name" value="EDT_Machine_Hardware_Overview.htm#IX_Headstock_2">
+    <param name="Local" value="OpMan/OpMan/EDT_Machine_Hardware_Overview.htm#IX_Headstock_2">
+    <param name="Name" value="EDT_Machine_Hardware_Overview.htm#IX_Headstock_3">
+    <param name="Local" value="OpMan/OpMan/EDT_Machine_Hardware_Overview.htm#IX_Headstock_3">
+    <param name="Name" value="Positions_and_Negative_Positive_directions_of_travel.htm#IX_Headstock_4">
+    <param name="Local" value="OpMan/OpMan/Positions_and_Negative_Positive_directions_of_travel.htm#IX_Headstock_4">
+    <param name="Name" value="Positions_and_Negative_Positive_directions_of_travel.htm#IX_Headstock_5">
+    <param name="Local" value="OpMan/OpMan/Positions_and_Negative_Positive_directions_of_travel.htm#IX_Headstock_5">
+    <param name="Name" value="Operating_the_machine_in_Console_Mode.htm#IX_Headstock_6">
+    <param name="Local" value="OpMan/OpMan/Operating_the_machine_in_Console_Mode.htm#IX_Headstock_6">
+    <param name="Name" value="Operating_the_machine_in_Console_Mode.htm#IX_Headstock_7">
+    <param name="Local" value="OpMan/OpMan/Operating_the_machine_in_Console_Mode.htm#IX_Headstock_7">
+    <param name="Name" value="Operating_the_machine_in_Console_Mode.htm#IX_Headstock_8">
+    <param name="Local" value="OpMan/OpMan/Operating_the_machine_in_Console_Mode.htm#IX_Headstock_8">
+    <param name="Name" value="Table_describing_modal_buttons_on_User_Pendant.htm#IX_Headstock_9">
+    <param name="Local" value="OpMan/OpMan/Table_describing_modal_buttons_on_User_Pendant.htm#IX_Headstock_9">
+    <param name="Name" value="Table_describing_modal_buttons_on_User_Pendant.htm#IX_Headstock_10">
+    <param name="Local" value="OpMan/OpMan/Table_describing_modal_buttons_on_User_Pendant.htm#IX_Headstock_10">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Home screen">
+    <param name="Name" value="Turning_the_EDT_Machine_On.htm#IX_Home_screen">
+    <param name="Local" value="OpMan/OpMan/Turning_the_EDT_Machine_On.htm#IX_Home_screen">
+    <param name="Name" value="Turning_the_EDT_Machine_On.htm#IX_Home_screen_1">
+    <param name="Local" value="OpMan/OpMan/Turning_the_EDT_Machine_On.htm#IX_Home_screen_1">
+    <param name="Name" value="User_Interface.htm#IX_Home_screen_2">
+    <param name="Local" value="OpMan/OpMan/User_Interface.htm#IX_Home_screen_2">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Iconography">
+    <param name="Name" value="Iconography.htm">
+    <param name="Local" value="OpMan/OpMan/Iconography.htm">
+    <param name="Name" value="Iconography1.htm">
+    <param name="Local" value="OpMan/OpMan/Iconography1.htm">
+    <param name="Name" value="Iconography2.htm">
+    <param name="Local" value="OpMan/OpMan/Iconography2.htm">
+    <param name="Name" value="Iconography3.htm">
+    <param name="Local" value="OpMan/OpMan/Iconography3.htm">
+    <param name="Name" value="Iconography4.htm">
+    <param name="Local" value="OpMan/OpMan/Iconography4.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Indicators">
+    <param name="Name" value="User_interface_elements_and_conventions.htm#IX_Indicators">
+    <param name="Local" value="OpMan/OpMan/User_interface_elements_and_conventions.htm#IX_Indicators">
+    <param name="Name" value="Indicators.htm">
+    <param name="Local" value="OpMan/OpMan/Indicators.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Input lights">
+    <param name="Name" value="Turning_the_EDT_Machine_On.htm#IX_Input_lights">
+    <param name="Local" value="OpMan/OpMan/Turning_the_EDT_Machine_On.htm#IX_Input_lights">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Key-switch">
+    <param name="Name" value="Manual_Mode.htm#IX_Key_switch">
+    <param name="Local" value="OpMan/OpMan/Manual_Mode.htm#IX_Key_switch">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Language">
+    <param name="Name" value="Menu_Structure.htm#IX_Language">
+    <param name="Local" value="OpMan/OpMan/Menu_Structure.htm#IX_Language">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Left-hand side">
+    <param name="Name" value="Other_User_interface_conventions.htm#IX_Left_hand_side">
+    <param name="Local" value="OpMan/OpMan/Other_User_interface_conventions.htm#IX_Left_hand_side">
+    <param name="Name" value="Other_User_interface_conventions.htm#IX_Left_hand_side_1">
+    <param name="Local" value="OpMan/OpMan/Other_User_interface_conventions.htm#IX_Left_hand_side_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Main mimic panel">
+    <param name="Name" value="Introduction1.htm#IX_Main_mimic_panel">
+    <param name="Local" value="OpMan/OpMan/Introduction1.htm#IX_Main_mimic_panel">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Maintenance manual">
+    <param name="Name" value="Using_the_Emergency_Switch.htm#IX_Maintenance_manual">
+    <param name="Local" value="OpMan/OpMan/Using_the_Emergency_Switch.htm#IX_Maintenance_manual">
+    <param name="Name" value="Selection_buttons.htm#IX_Maintenance_manual_1">
+    <param name="Local" value="OpMan/OpMan/Selection_buttons.htm#IX_Maintenance_manual_1">
+    <param name="Name" value="EDT_Machine_referencing_and_settings.htm#IX_Maintenance_manual_2">
+    <param name="Local" value="OpMan/OpMan/EDT_Machine_referencing_and_settings.htm#IX_Maintenance_manual_2">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Manual activation">
+    <param name="Name" value="Manual_activation.htm">
+    <param name="Local" value="OpMan/OpMan/Manual_activation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Manual mode">
+    <param name="Name" value="Manual_and_AUTO_modes.htm#IX_Manual_mode">
+    <param name="Local" value="OpMan/OpMan/Manual_and_AUTO_modes.htm#IX_Manual_mode">
+    <param name="Name" value="Filtering_Operations.htm#IX_Manual_mode_1">
+    <param name="Local" value="OpMan/OpMan/Filtering_Operations.htm#IX_Manual_mode_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Movements">
+    <param name="Name" value="Operating_the_machine_in_Console_Mode.htm#IX_Movements">
+    <param name="Local" value="OpMan/OpMan/Operating_the_machine_in_Console_Mode.htm#IX_Movements">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Negative (-ive) direction">
+    <param name="Name" value="Positions_and_Negative_Positive_directions_of_travel.htm#IX_Negative_ive_direction">
+    <param name="Local" value="OpMan/OpMan/Positions_and_Negative_Positive_directions_of_travel.htm#IX_Negative_ive_direction">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Off-time">
+    <param name="Name" value="Semi-auto_set_points.htm#IX_Off_time">
+    <param name="Local" value="OpMan/OpMan/Semi-auto_set_points.htm#IX_Off_time">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="On time">
+    <param name="Name" value="Semi-auto_set_points.htm#IX_On_time">
+    <param name="Local" value="OpMan/OpMan/Semi-auto_set_points.htm#IX_On_time">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Operator console">
+    <param name="Name" value="Dielectric_Plant_Control_Panel_and_Mimic_Panel.htm#IX_Operator_console">
+    <param name="Local" value="OpMan/OpMan/Dielectric_Plant_Control_Panel_and_Mimic_Panel.htm#IX_Operator_console">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Overload">
+    <param name="Name" value="Indicators.htm#IX_Overload">
+    <param name="Local" value="OpMan/OpMan/Indicators.htm#IX_Overload">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Pads">
+    <param name="Name" value="Roll_Manipulator.htm#IX_Pads">
+    <param name="Local" value="OpMan/OpMan/Roll_Manipulator.htm#IX_Pads">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Peak count">
+    <param name="Name" value="Iconography1.htm#IX_Peak_count">
+    <param name="Local" value="OpMan/OpMan/Iconography1.htm#IX_Peak_count">
+    <param name="Name" value="Iconography3.htm#IX_Peak_count_1">
+    <param name="Local" value="OpMan/OpMan/Iconography3.htm#IX_Peak_count_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Pendant">
+    <param name="Name" value="Operator_Console.htm#IX_Pendant">
+    <param name="Local" value="OpMan/OpMan/Operator_Console.htm#IX_Pendant">
+    <param name="Name" value="Operating_the_machine_in_Console_Mode.htm#IX_Pendant_1">
+    <param name="Local" value="OpMan/OpMan/Operating_the_machine_in_Console_Mode.htm#IX_Pendant_1">
+    <param name="Name" value="Using_the_Pendant.htm">
+    <param name="Local" value="OpMan/OpMan/Using_the_Pendant.htm">
+    <param name="Name" value="Table_describing_modal_buttons_on_User_Pendant.htm">
+    <param name="Local" value="OpMan/OpMan/Table_describing_modal_buttons_on_User_Pendant.htm">
+    <param name="Name" value="Table_describing_modal_buttons_on_User_Pendant.htm#IX_Pendant_4">
+    <param name="Local" value="OpMan/OpMan/Table_describing_modal_buttons_on_User_Pendant.htm#IX_Pendant_4">
+    <param name="Name" value="Table_describing_modal_buttons_on_User_Pendant.htm#IX_Pendant_5">
+    <param name="Local" value="OpMan/OpMan/Table_describing_modal_buttons_on_User_Pendant.htm#IX_Pendant_5">
+    <param name="Name" value="Table_describing_modal_buttons_on_User_Pendant.htm#IX_Pendant_6">
+    <param name="Local" value="OpMan/OpMan/Table_describing_modal_buttons_on_User_Pendant.htm#IX_Pendant_6">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Plant">
+    <param name="Name" value="Installation_Overview.htm#IX_Plant">
+    <param name="Local" value="OpMan/OpMan/Installation_Overview.htm#IX_Plant">
+    <param name="Name" value="Dielectric_Fluid_Plant.htm">
+    <param name="Local" value="OpMan/OpMan/Dielectric_Fluid_Plant.htm">
+    <param name="Name" value="Dielectric_Plant.htm">
+    <param name="Local" value="OpMan/OpMan/Dielectric_Plant.htm">
+    <param name="Name" value="Dielectric_Plant.htm#IX_Plant_3">
+    <param name="Local" value="OpMan/OpMan/Dielectric_Plant.htm#IX_Plant_3">
+    <param name="Name" value="Dielectric_Plant_Control_Panel_and_Mimic_Panel.htm">
+    <param name="Local" value="OpMan/OpMan/Dielectric_Plant_Control_Panel_and_Mimic_Panel.htm">
+    <param name="Name" value="Dielectric_Plant_Control_Panel_and_Mimic_Panel.htm#IX_Plant_5">
+    <param name="Local" value="OpMan/OpMan/Dielectric_Plant_Control_Panel_and_Mimic_Panel.htm#IX_Plant_5">
+    <param name="Name" value="Dielectric_Plant_Control_Panel_and_Mimic_Panel.htm#IX_Plant_6">
+    <param name="Local" value="OpMan/OpMan/Dielectric_Plant_Control_Panel_and_Mimic_Panel.htm#IX_Plant_6">
+    <param name="Name" value="Filtering_Operations.htm#IX_Plant_7">
+    <param name="Local" value="OpMan/OpMan/Filtering_Operations.htm#IX_Plant_7">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Postamble">
+    <param name="Name" value="Auto_Postamble.htm">
+    <param name="Local" value="OpMan/OpMan/Auto_Postamble.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Power on">
+    <param name="Name" value="Iconography2.htm#IX_Power_on">
+    <param name="Local" value="OpMan/OpMan/Iconography2.htm#IX_Power_on">
+    <param name="Name" value="Illustrated_Operation.htm#IX_Power_on_1">
+    <param name="Local" value="OpMan/OpMan/Illustrated_Operation.htm#IX_Power_on_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Power up sequence">
+    <param name="Name" value="User_Interface.htm#IX_Power_up_sequence">
+    <param name="Local" value="OpMan/OpMan/User_Interface.htm#IX_Power_up_sequence">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Power-up">
+    <param name="Name" value="Turning_the_EDT_Machine_On.htm#IX_Power_up">
+    <param name="Local" value="OpMan/OpMan/Turning_the_EDT_Machine_On.htm#IX_Power_up">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Quill">
+    <param name="Name" value="EDT_Machine_Hardware_Overview.htm#IX_Quill">
+    <param name="Local" value="OpMan/OpMan/EDT_Machine_Hardware_Overview.htm#IX_Quill">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RA measurement">
+    <param name="Name" value="Iconography4.htm#IX_RA_measurement">
+    <param name="Local" value="OpMan/OpMan/Iconography4.htm#IX_RA_measurement">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Radio buttons">
+    <param name="Name" value="Selection_buttons.htm#IX_Radio_buttons">
+    <param name="Local" value="OpMan/OpMan/Selection_buttons.htm#IX_Radio_buttons">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Reset">
+    <param name="Name" value="Indicators.htm#IX_Reset">
+    <param name="Local" value="OpMan/OpMan/Indicators.htm#IX_Reset">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Results">
+    <param name="Name" value="Results_viewer.htm">
+    <param name="Local" value="OpMan/OpMan/Results_viewer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Right-hand side">
+    <param name="Name" value="Other_User_interface_conventions.htm#IX_Right_hand_side">
+    <param name="Local" value="OpMan/OpMan/Other_User_interface_conventions.htm#IX_Right_hand_side">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Roll diameter">
+    <param name="Name" value="Iconography1.htm#IX_Roll_diameter">
+    <param name="Local" value="OpMan/OpMan/Iconography1.htm#IX_Roll_diameter">
+    <param name="Name" value="Iconography3.htm#IX_Roll_diameter_1">
+    <param name="Local" value="OpMan/OpMan/Iconography3.htm#IX_Roll_diameter_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Roll loading program">
+    <param name="Name" value="Menu_Structure.htm#IX_Roll_loading_program">
+    <param name="Local" value="OpMan/OpMan/Menu_Structure.htm#IX_Roll_loading_program">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Roll manipulator">
+    <param name="Name" value="Installation_Overview.htm#IX_Roll_manipulator">
+    <param name="Local" value="OpMan/OpMan/Installation_Overview.htm#IX_Roll_manipulator">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Rotation speed">
+    <param name="Name" value="Semi-auto_set_points.htm#IX_Rotation_speed">
+    <param name="Local" value="OpMan/OpMan/Semi-auto_set_points.htm#IX_Rotation_speed">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Roughness average">
+    <param name="Name" value="Roughness_parameters_as_defined_in_ISO_4287.htm#IX_Roughness_average">
+    <param name="Local" value="OpMan/OpMan/Roughness_parameters_as_defined_in_ISO_4287.htm#IX_Roughness_average">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Roughness parameters">
+    <param name="Name" value="Roughness_parameters_as_defined_in_ISO_4287.htm">
+    <param name="Local" value="OpMan/OpMan/Roughness_parameters_as_defined_in_ISO_4287.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Rsk">
+    <param name="Name" value="Roughness_parameters_as_defined_in_ISO_4287.htm#IX_Rsk">
+    <param name="Local" value="OpMan/OpMan/Roughness_parameters_as_defined_in_ISO_4287.htm#IX_Rsk">
+    <param name="Name" value="Roughness_parameters_as_defined_in_ISO_4287.htm#IX_Rsk_1">
+    <param name="Local" value="OpMan/OpMan/Roughness_parameters_as_defined_in_ISO_4287.htm#IX_Rsk_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Saddle">
+    <param name="Name" value="Electrical_Cabinets.htm#IX_Saddle">
+    <param name="Local" value="OpMan/OpMan/Electrical_Cabinets.htm#IX_Saddle">
+    <param name="Name" value="Operating_the_machine_in_Console_Mode.htm#IX_Saddle_1">
+    <param name="Local" value="OpMan/OpMan/Operating_the_machine_in_Console_Mode.htm#IX_Saddle_1">
+    <param name="Name" value="Operating_the_machine_in_Console_Mode.htm#IX_Saddle_2">
+    <param name="Local" value="OpMan/OpMan/Operating_the_machine_in_Console_Mode.htm#IX_Saddle_2">
+    <param name="Name" value="Table_describing_modal_buttons_on_User_Pendant.htm#IX_Saddle_3">
+    <param name="Local" value="OpMan/OpMan/Table_describing_modal_buttons_on_User_Pendant.htm#IX_Saddle_3">
+    <param name="Name" value="Illustrated_Operation.htm#IX_Saddle_4">
+    <param name="Local" value="OpMan/OpMan/Illustrated_Operation.htm#IX_Saddle_4">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Selection buttons">
+    <param name="Name" value="User_interface_elements_and_conventions.htm#IX_Selection_buttons">
+    <param name="Local" value="OpMan/OpMan/User_interface_elements_and_conventions.htm#IX_Selection_buttons">
+    <param name="Name" value="Selection_buttons.htm">
+    <param name="Local" value="OpMan/OpMan/Selection_buttons.htm">
+    <param name="Name" value="Selection_buttons.htm#IX_Selection_buttons_2">
+    <param name="Local" value="OpMan/OpMan/Selection_buttons.htm#IX_Selection_buttons_2">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Semi-auto program execution">
+    <param name="Name" value="Menu_Structure.htm#IX_Semi_auto_program">
+    <param name="Local" value="OpMan/OpMan/Menu_Structure.htm#IX_Semi_auto_program">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Skew measurement">
+    <param name="Name" value="Iconography4.htm#IX_Skew_measurement">
+    <param name="Local" value="OpMan/OpMan/Iconography4.htm#IX_Skew_measurement">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Softloader">
+    <param name="Name" value="Table_describing_modal_buttons_on_User_Pendant.htm#IX_Softloader">
+    <param name="Local" value="OpMan/OpMan/Table_describing_modal_buttons_on_User_Pendant.htm#IX_Softloader">
+    <param name="Name" value="Table_describing_modal_buttons_on_User_Pendant.htm#IX_Softloader_1">
+    <param name="Local" value="OpMan/OpMan/Table_describing_modal_buttons_on_User_Pendant.htm#IX_Softloader_1">
+    <param name="Name" value="Table_describing_modal_buttons_on_User_Pendant.htm#IX_Softloader_2">
+    <param name="Local" value="OpMan/OpMan/Table_describing_modal_buttons_on_User_Pendant.htm#IX_Softloader_2">
+    <param name="Name" value="Table_describing_modal_buttons_on_User_Pendant.htm#IX_Softloader_3">
+    <param name="Local" value="OpMan/OpMan/Table_describing_modal_buttons_on_User_Pendant.htm#IX_Softloader_3">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Spindle">
+    <param name="Name" value="EDT_Machine_Hardware_Overview.htm#IX_Spindle">
+    <param name="Local" value="OpMan/OpMan/EDT_Machine_Hardware_Overview.htm#IX_Spindle">
+    <param name="Name" value="Electrical_Cabinets.htm#IX_Spindle_1">
+    <param name="Local" value="OpMan/OpMan/Electrical_Cabinets.htm#IX_Spindle_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Start position">
+    <param name="Name" value="Semi-auto_set_points.htm#IX_Start_position">
+    <param name="Local" value="OpMan/OpMan/Semi-auto_set_points.htm#IX_Start_position">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Stationary">
+    <param name="Name" value="Indicators.htm#IX_Stationary">
+    <param name="Local" value="OpMan/OpMan/Indicators.htm#IX_Stationary">
+    <param name="Name" value="Indicators.htm#IX_Stationary_1">
+    <param name="Local" value="OpMan/OpMan/Indicators.htm#IX_Stationary_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Stations">
+    <param name="Name" value="Texture_Stations.htm">
+    <param name="Local" value="OpMan/OpMan/Texture_Stations.htm">
+    <param name="Name" value="Illustrated_Operation.htm#IX_Stations_1">
+    <param name="Local" value="OpMan/OpMan/Illustrated_Operation.htm#IX_Stations_1">
+    <param name="Name" value="Texture_Stations1.htm">
+    <param name="Local" value="OpMan/OpMan/Texture_Stations1.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Statistical surveys">
+    <param name="Name" value="Statistical_surveys.htm">
+    <param name="Local" value="OpMan/OpMan/Statistical_surveys.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Steadies">
+    <param name="Name" value="Roll_Manipulator.htm#IX_Steadies">
+    <param name="Local" value="OpMan/OpMan/Roll_Manipulator.htm#IX_Steadies">
+    <param name="Name" value="Steadies.htm">
+    <param name="Local" value="OpMan/OpMan/Steadies.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Steady">
+    <param name="Name" value="EDT_Machine_Hardware_Overview.htm#IX_Steady">
+    <param name="Local" value="OpMan/OpMan/EDT_Machine_Hardware_Overview.htm#IX_Steady">
+    <param name="Name" value="Roll_Manipulator.htm#IX_Steady_1">
+    <param name="Local" value="OpMan/OpMan/Roll_Manipulator.htm#IX_Steady_1">
+    <param name="Name" value="Operating_the_machine_in_Console_Mode.htm#IX_Steady_2">
+    <param name="Local" value="OpMan/OpMan/Operating_the_machine_in_Console_Mode.htm#IX_Steady_2">
+    <param name="Name" value="Operating_the_machine_in_Console_Mode.htm#IX_Steady_3">
+    <param name="Local" value="OpMan/OpMan/Operating_the_machine_in_Console_Mode.htm#IX_Steady_3">
+    <param name="Name" value="Operating_the_machine_in_Console_Mode.htm#IX_Steady_4">
+    <param name="Local" value="OpMan/OpMan/Operating_the_machine_in_Console_Mode.htm#IX_Steady_4">
+    <param name="Name" value="Table_describing_modal_buttons_on_User_Pendant.htm#IX_Steady_5">
+    <param name="Local" value="OpMan/OpMan/Table_describing_modal_buttons_on_User_Pendant.htm#IX_Steady_5">
+    <param name="Name" value="Table_describing_modal_buttons_on_User_Pendant.htm#IX_Steady_6">
+    <param name="Local" value="OpMan/OpMan/Table_describing_modal_buttons_on_User_Pendant.htm#IX_Steady_6">
+    <param name="Name" value="Table_describing_modal_buttons_on_User_Pendant.htm#IX_Steady_7">
+    <param name="Local" value="OpMan/OpMan/Table_describing_modal_buttons_on_User_Pendant.htm#IX_Steady_7">
+    <param name="Name" value="Table_describing_modal_buttons_on_User_Pendant.htm#IX_Steady_8">
+    <param name="Local" value="OpMan/OpMan/Table_describing_modal_buttons_on_User_Pendant.htm#IX_Steady_8">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Stores">
+    <param name="Name" value="Installation_Overview.htm#IX_Stores">
+    <param name="Local" value="OpMan/OpMan/Installation_Overview.htm#IX_Stores">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Striker">
+    <param name="Name" value="Iconography2.htm#IX_Striker">
+    <param name="Local" value="OpMan/OpMan/Iconography2.htm#IX_Striker">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Tailstock">
+    <param name="Name" value="Installation_Overview.htm#IX_Tailstock">
+    <param name="Local" value="OpMan/OpMan/Installation_Overview.htm#IX_Tailstock">
+    <param name="Name" value="EDT_Machine_Hardware_Overview.htm#IX_Tailstock_1">
+    <param name="Local" value="OpMan/OpMan/EDT_Machine_Hardware_Overview.htm#IX_Tailstock_1">
+    <param name="Name" value="EDT_Machine_Hardware_Overview.htm#IX_Tailstock_2">
+    <param name="Local" value="OpMan/OpMan/EDT_Machine_Hardware_Overview.htm#IX_Tailstock_2">
+    <param name="Name" value="EDT_Machine_Hardware_Overview.htm#IX_Tailstock_3">
+    <param name="Local" value="OpMan/OpMan/EDT_Machine_Hardware_Overview.htm#IX_Tailstock_3">
+    <param name="Name" value="EDT_Machine_Hardware_Overview.htm#IX_Tailstock_4">
+    <param name="Local" value="OpMan/OpMan/EDT_Machine_Hardware_Overview.htm#IX_Tailstock_4">
+    <param name="Name" value="Positions_and_Negative_Positive_directions_of_travel.htm#IX_Tailstock_5">
+    <param name="Local" value="OpMan/OpMan/Positions_and_Negative_Positive_directions_of_travel.htm#IX_Tailstock_5">
+    <param name="Name" value="Positions_and_Negative_Positive_directions_of_travel.htm#IX_Tailstock_6">
+    <param name="Local" value="OpMan/OpMan/Positions_and_Negative_Positive_directions_of_travel.htm#IX_Tailstock_6">
+    <param name="Name" value="Operating_the_machine_in_Console_Mode.htm#IX_Tailstock_7">
+    <param name="Local" value="OpMan/OpMan/Operating_the_machine_in_Console_Mode.htm#IX_Tailstock_7">
+    <param name="Name" value="Operating_the_machine_in_Console_Mode.htm#IX_Tailstock_8">
+    <param name="Local" value="OpMan/OpMan/Operating_the_machine_in_Console_Mode.htm#IX_Tailstock_8">
+    <param name="Name" value="Table_describing_modal_buttons_on_User_Pendant.htm#IX_Tailstock_9">
+    <param name="Local" value="OpMan/OpMan/Table_describing_modal_buttons_on_User_Pendant.htm#IX_Tailstock_9">
+    <param name="Name" value="Table_describing_modal_buttons_on_User_Pendant.htm#IX_Tailstock_10">
+    <param name="Local" value="OpMan/OpMan/Table_describing_modal_buttons_on_User_Pendant.htm#IX_Tailstock_10">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Target position">
+    <param name="Name" value="Iconography2.htm#IX_Target_position">
+    <param name="Local" value="OpMan/OpMan/Iconography2.htm#IX_Target_position">
+    <param name="Name" value="Iconography2.htm#IX_Target_position_1">
+    <param name="Local" value="OpMan/OpMan/Iconography2.htm#IX_Target_position_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Test mode">
+    <param name="Name" value="Menu_Structure.htm#IX_Test_mode">
+    <param name="Local" value="OpMan/OpMan/Menu_Structure.htm#IX_Test_mode">
+    <param name="Name" value="Menu_Structure.htm#IX_Test_mode_1">
+    <param name="Local" value="OpMan/OpMan/Menu_Structure.htm#IX_Test_mode_1">
+    <param name="Name" value="Menu_Structure.htm#IX_Test_mode_2">
+    <param name="Local" value="OpMan/OpMan/Menu_Structure.htm#IX_Test_mode_2">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Texture station">
+    <param name="Name" value="Operating_the_machine_in_Console_Mode.htm#IX_Texture_station">
+    <param name="Local" value="OpMan/OpMan/Operating_the_machine_in_Console_Mode.htm#IX_Texture_station">
+    <param name="Name" value="Illustrated_Operation.htm#IX_Texture_station_1">
+    <param name="Local" value="OpMan/OpMan/Illustrated_Operation.htm#IX_Texture_station_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Texturing process">
+    <param name="Name" value="Operator_Console.htm#IX_Texturing_process">
+    <param name="Local" value="OpMan/OpMan/Operator_Console.htm#IX_Texturing_process">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Threshold">
+    <param name="Name" value="Iconography2.htm#IX_Threshold">
+    <param name="Local" value="OpMan/OpMan/Iconography2.htm#IX_Threshold">
+    <param name="Name" value="Semi-auto_set_points.htm#IX_Threshold_1">
+    <param name="Local" value="OpMan/OpMan/Semi-auto_set_points.htm#IX_Threshold_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Time remaining">
+    <param name="Name" value="Iconography2.htm#IX_Time_remaining">
+    <param name="Local" value="OpMan/OpMan/Iconography2.htm#IX_Time_remaining">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Total predicted duration">
+    <param name="Name" value="Iconography2.htm#IX_Total_predicted_duration">
+    <param name="Local" value="OpMan/OpMan/Iconography2.htm#IX_Total_predicted_duration">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Traverse speed">
+    <param name="Name" value="Semi-auto_set_points.htm#IX_Traverse_speed">
+    <param name="Local" value="OpMan/OpMan/Semi-auto_set_points.htm#IX_Traverse_speed">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Unloads">
+    <param name="Name" value="Iconography.htm#IX_Unloads">
+    <param name="Local" value="OpMan/OpMan/Iconography.htm#IX_Unloads">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="USB port">
+    <param name="Name" value="Operator_Console.htm#IX_USB_port">
+    <param name="Local" value="OpMan/OpMan/Operator_Console.htm#IX_USB_port">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="User console">
+    <param name="Name" value="EDT_Machine_referencing_and_settings.htm#IX_User_console">
+    <param name="Local" value="OpMan/OpMan/EDT_Machine_referencing_and_settings.htm#IX_User_console">
+    <param name="Name" value="Normal_Daily_Operation_Cycle.htm#IX_User_console_1">
+    <param name="Local" value="OpMan/OpMan/Normal_Daily_Operation_Cycle.htm#IX_User_console_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="User interface">
+    <param name="Name" value="Turning_the_EDT_Machine_On.htm#IX_User_interface">
+    <param name="Local" value="OpMan/OpMan/Turning_the_EDT_Machine_On.htm#IX_User_interface">
+    <param name="Name" value="User_interface_elements_and_conventions.htm">
+    <param name="Local" value="OpMan/OpMan/User_interface_elements_and_conventions.htm">
+    <param name="Name" value="Other_User_interface_conventions.htm">
+    <param name="Local" value="OpMan/OpMan/Other_User_interface_conventions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Valve status">
+    <param name="Name" value="Dielectric_Fluid_Plant.htm#IX_Valve_status">
+    <param name="Local" value="OpMan/OpMan/Dielectric_Fluid_Plant.htm#IX_Valve_status">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Warnings">
+    <param name="Name" value="Conventions_Used_In_the_User_Training1.htm#IX_Warnings">
+    <param name="Local" value="OpMan/OpMan/Conventions_Used_In_the_User_Training1.htm#IX_Warnings">
+    <param name="Name" value="Manual_and_AUTO_modes.htm#IX_Warnings_1">
+    <param name="Local" value="OpMan/OpMan/Manual_and_AUTO_modes.htm#IX_Warnings_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Waviness">
+    <param name="Name" value="Iconography4.htm#IX_Waviness">
+    <param name="Local" value="OpMan/OpMan/Iconography4.htm#IX_Waviness">
+  </object>
+</ul>
+</html>

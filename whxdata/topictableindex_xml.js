@@ -1,0 +1,1 @@
+gXMLBuffer="<?xml version=\"1.0\" encoding=\"UTF-8\"?><cki><ck fm=\"MaintMan_Errors\" to=\"Machine Environment\" num=\"42\"/><ck fm=\"Manual activation\" to=\"Typical roll survey\" num=\"40\"/><ck fm=\"User Interface\" to=\"mechanical_drawings_and_parts_lists.pdf\" num=\"12\"/></cki>";

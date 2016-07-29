@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc1.js\"  name=\"Console Mode Operation\" url=\"OpMan/OpMan/Console_Mode_Operation.htm\"><book name=\"Operator Console\" url=\"OpMan/OpMan/Operator_Console1.htm\" src=\"toc12.js\" /></data>";

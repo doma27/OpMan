@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc12.js\"  name=\"Using the Pendant\" url=\"OpMan/OpMan/Using_the_Pendant.htm\"><item name=\"Table describing modal buttons on User Pendant\" url=\"OpMan/OpMan/Table_describing_modal_buttons_on_User_Pendant.htm\" /></data>";

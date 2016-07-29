@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"book","name":"Program Selection & Auto pre-amble","key":"toc17","url":"OpMan/OpMan/Program_Selection_Auto_pre-amble.htm"},{"type":"book","name":"Auto Execute - Position view","key":"toc18","url":"OpMan/OpMan/Auto_Execute_-_Position_view.htm"},{"type":"book","name":"Auto Execute - Info view","key":"toc19","url":"OpMan/OpMan/Auto_Execute_-_Info_view.htm"},{"type":"book","name":"Auto Postamble","key":"toc20","url":"OpMan/OpMan/Auto_Postamble.htm"},{"type":"item","name":"Results viewer","url":"OpMan/OpMan/Results_viewer.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"Introduction","url":"OpMan/OpMan/Introduction1.htm"},{"type":"item","name":"Dielectric Plant Control Panel and Mimic Panel","url":"OpMan/OpMan/Dielectric_Plant_Control_Panel_and_Mimic_Panel.htm"},{"type":"item","name":"Schematic (P & ID)","url":"OpMan/OpMan/Schematic_P_ID.htm"},{"type":"book","name":"Manual and AUTO modes","key":"toc25","url":"OpMan/OpMan/Manual_and_AUTO_modes.htm"},{"type":"book","name":"Filtering Operations","key":"toc26","url":"OpMan/OpMan/Filtering_Operations.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

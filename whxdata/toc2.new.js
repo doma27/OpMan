@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"Installation Overview","url":"OpMan/OpMan/Installation_Overview.htm"},{"type":"item","name":"EDT Machine General Description","url":"OpMan/OpMan/EDT_Machine_General_Description.htm"},{"type":"item","name":"EDT Machine Hardware Overview","url":"OpMan/OpMan/EDT_Machine_Hardware_Overview.htm"},{"type":"item","name":"Roll Manipulator","url":"OpMan/OpMan/Roll_Manipulator.htm"},{"type":"item","name":"Texture Stations","url":"OpMan/OpMan/Texture_Stations.htm"},{"type":"item","name":"Electrical Cabinets","url":"OpMan/OpMan/Electrical_Cabinets.htm"},{"type":"item","name":"Dielectric Fluid Plant","url":"OpMan/OpMan/Dielectric_Fluid_Plant.htm"},{"type":"item","name":"Operator Console","url":"OpMan/OpMan/Operator_Console.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

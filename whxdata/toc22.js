@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc21.js\"  name=\"Illustrated Operation\" url=\"OpMan/OpMan/Illustrated_Operation.htm\"><item name=\"Semi–auto set points\" url=\"OpMan/OpMan/Semi-auto_set_points.htm\" /></data>";

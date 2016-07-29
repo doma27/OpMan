@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"book","name":"Principles and General Description","key":"toc7","url":"OpMan/OpMan/Principles_and_General_Description.htm"},{"type":"item","name":"Menu Structure","url":"OpMan/OpMan/Menu_Structure.htm"},{"type":"item","name":"Fault Reporting and Help","url":"OpMan/OpMan/Fault_Reporting_and_Help.htm"},{"type":"item","name":"Help","url":"OpMan/OpMan/Help.htm"},{"type":"book","name":"User interface elements and conventions","key":"toc8","url":"OpMan/OpMan/User_interface_elements_and_conventions.htm"},{"type":"item","name":"Navigating Modes","url":"OpMan/OpMan/Navigating_Modes.htm"},{"type":"item","name":"Selecting Load Mode","url":"OpMan/OpMan/Selecting_Load_Mode.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

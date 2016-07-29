@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc6.js\"  name=\"Principles and General Description\" url=\"OpMan/OpMan/Principles_and_General_Description.htm\"><item name=\"Screen Layout\" url=\"OpMan/OpMan/Screen_Layout.htm\" /></data>";
